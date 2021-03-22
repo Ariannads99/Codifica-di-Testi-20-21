@@ -1,0 +1,13 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<docu>
+
+    <element>
+        <figlioaggiunto></figlioaggiunto> <!-- aggiungere un figlio-->
+    </element>
+    <nowell>
+        <over>
+        </over> <!-- correzione dell'annidamento: tag di chiusura dentro l'elemento nowell -->
+        <siblingaggiunto></siblingaggiunto> <!--aggiungere un fratello-->
+    </nowell> <!-- correzione tag di chiusura (maiuscola) -->
+        
+</docu>
