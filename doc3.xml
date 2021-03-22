@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> <!--Dichiarazione XML-->
+
+<TEI type="doc"> 
+    <test>
+    </test>
+
+    <!--Il blocco di testo seguente non deve essere interpretato come XML,
+    ma come un frammento HTML -->
+    <htmlFragment>
+       <![CDATA[
+            <h1></h1>
+            <div><span></span></div>
+       ]]>
+    </htmlFragment>
+
+</TEI> <!--Tag di chiusura identico a quello di apertura-->
