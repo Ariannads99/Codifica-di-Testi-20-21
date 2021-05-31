@@ -1,0 +1,3 @@
+5.	Definire Elemento root TEI.
+Elementi figli: header (obbligatorio una occorrenza), facsimile (opzionale una occorrenza), text (obbligatorio almeno una occorrenza). 
+Gli elementi hanno tutti un content model testuale.
