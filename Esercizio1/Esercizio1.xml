@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> <!--Dichiarazione XML-->
+<!-- 
+    Filename: doc1.xml
+    Author: Arianna Di Serio
+    Date: 15/03/2021
+ -->
+
+<TEI> <!--Root del body-->
+    <products>
+    </products>
+</TEI> <!--Tag di chiusura identico a quello di apertura-->
