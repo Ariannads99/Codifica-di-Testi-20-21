@@ -1,0 +1,5 @@
+1. includere all’interno di un documento XML la
+dichiarazione del tipo, definire internamente gli elementi e
+gli attributi e validare.
+2. inserire nel prologo di un documento XML la dichiarazione
+del tipo di documento e validare.
