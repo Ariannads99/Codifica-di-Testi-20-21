@@ -1,0 +1,1 @@
+8.	Marcare un testo plain text di circa 3000 caratteri a piacere. Inserire prologo XML, marcare la struttura usando gli elementi fin qui descritti, in particolare marcare tutti i paragrafi usando <p> e la struttura editoriale usando <div>. Verificare che sia ben formato con xmllint, salvare il file XML su github.
