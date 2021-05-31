@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "Esercizio7.2.dtd">
+
+<TEI>
+    <header> header </header>
+    <facsimile source="source"> facsimile </facsimile>
+    <testo id="uno"> testo1 </testo>
+    <testo id="due"> 
+        <seg>seg</seg> 
+    </testo>
+</TEI>
