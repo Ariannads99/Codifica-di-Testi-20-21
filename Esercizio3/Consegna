@@ -1,0 +1,1 @@
+Aprire il file XML non ben formato presente nel repository: validarlo con XMLlint, correggerlo (commentando gli errori e le modifiche) aggiungere un figlio ad un elemento, aggiungere un fratello (sibling) ad un elemento.
