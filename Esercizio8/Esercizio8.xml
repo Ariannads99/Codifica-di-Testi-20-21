@@ -1,0 +1,67 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title>Alice nel paese delle meraviglie</title>
+                <respStmt>
+                    <resp> Resp TEI P5 a cura di </resp>
+                    <name>Arianna Di Serio</name>
+                </respStmt>
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <front>
+            <docTitle>
+                <titlePart>Alice nel paese delle meraviglie</titlePart>
+            </docTitle>
+            <docAuthor>L.Carroll</docAuthor>        
+        </front>
+        <body> 
+            <div n="capitolo1" type="chapter">
+                <head>CAPITOLO 1</head>
+                <head>GIU NELLA CONIGLIERA</head>
+        
+            <p><name>Alice</name> cominciava a sentirsi mortalmente stanca di sedere sul poggio, accanto a sua sorella, senza far nulla:
+            una o due volte aveva gittato lo sguardo sul libro che leggeva sua sorella, ma non c'erano imagini nè dialoghi, 
+            <said>"e a che serve un libro,"</said>pensò <name>Alice</name>, <said>"senza imagini e dialoghi?"</said></p>
+            <p>E andava fantasticando col suo cervello (come meglio poteva, perchè lo stellone l'avea resa sonnacchiosa e grullina), 
+            se il piacere di fare una ghirlanda di margherite valesse la noja di levarsi su, e cogliere i fiori, quand'ecco un Coniglio 
+            bianco con gli occhi di rubino le passò da vicino.</p>
+           <p>Davvero non c'era troppo da meravigliarsi di ciò, nè <name>Alice</name>  pensò che fosse cosa troppo stravagante di sentire parlare il 
+            Coniglio, il quale diceva fra sè <said>"Oimè! Oimèi! ho fatto tardi!"</said> (quando se lo rammentò in seguito s'accorse che avrebbe dovuto 
+            meravigliarsene, ma allora le sembrò una cosa assai naturale): ma quando il Coniglio trasse un oriuolo dal taschino del 
+            panciotto, e vi affisò gli occhi, e scappò via, <name>Alice</name>  saltò in piedi, perchè l'era venuto in mente ch'ella non avea mai 
+            veduto un Coniglio col panciotto e il suo rispettivo taschino, nè con un oriuolo da starvici dentro, e divorata dalla curiosità, traversò il campo
+            correndogli appresso, e giunse proprio a tempo di vederlo slanciarsi in una spaziosa conigliera, di sotto alla siepe.</p>
+            <p>In un altro istante, giù <name>Alice</name>  scivolò, correndogli appresso, senza punto riflettere come mai avrebbe fatto per riuscirne fuori.
+            La buca della conigliera sfilava diritto come una galleria di tunnel, e poi s'inabissava tanto rapidamente che <name>Alice</name>  non ebbe un 
+            solo istante per considerare se avesse potuto fermarsi, poichè si sentiva cader giù rotoloni in qualche precipizio che rassomigliava
+             a un pozzo profondissimo.</p>
+            <p>Una delle due, o il pozzo era arci-profondo, o ella vi ruzzolava assai adagino, poichè ebbe tempo, mentre cadeva, di guardare 
+            tutto intorno, e stupiva pensando a ciò che le avverrebbe poi. Prima di tutto aguzzò la vista e cercò di vedere nel fondo per 
+            scoprire ciò che le accaderebbe, ma gli era bujo affatto e non ci si vedea punto: indi guardò alle pareti del pozzo ed 
+            osservò ch'erano ricoperte di credenze e di scaffali da libri; quà e là vide mappe e quadri che pendeano da' chiodi. 
+            Andando giù prese di volo un vasettino che aveva un cartello, lo lesse: <q type="written">"CONSERVA D'ARANCE,"</q> ma <emph>oimè!</emph> era vuoto 
+            e restò delusa: non volle lasciar cadere il vasettino per non ammazzare chi era in fondo, e andando sempre giù lo depose 
+            in un'altra credenza.</p>
+            <p><said>"Bene,"</said> pensò <name>Alice</name> , <said>"dopo una caduta tale, mi parrà proprio un niente il ruzzolare per le scale! A casa poi, come mi crederanno 
+            coraggiosa! D'ora innanzi, ancorchè cadessi dal tetto, non ne farei caso!" </said> (E probabilmente dicea la verità.)
+            E giù—e giù—e giù! Finirà mai quella caduta? <said>"Chi sa quante miglia ho percorse a quest'ora?" </said> sclamò. <said> "Davvero io stò per toccare 
+            il centro della terra. Vediamo: suppongo che saranno quattrocento miglia di profondità—" </said> (come vedete, <name>Alice</name> 
+            aveva imparate molte di tali cose nelle sue lezioni, ma non era quella la migliore occasione per fare sfoggio della sua 
+            erudizione, poichè non c'era niuno che l'ascoltasse, ciò non di meno era bene di ripassarle a mente) <said>—"sì, la sarà questa 
+            la vera distanza, o press'a poco—ma vorrei sapere a quale grado di Latitudine o di Longitudine io sia giunta!" </said>
+            (<name>Alice</name> non sapea mica che fosse Longitudine o Latitudine, ma pensò ch'erano belle parolone a dire, e le disse!)</p>
+            <p>Passò qualche istante e poi rincominciò. <said>"Che dovessi io traversare la terra? Sarebbe bella s'io uscissi fra le genti che 
+            camminano col capo in giù! Credo che si chiamino le Antipatie—" </said> (questa volta fu contenta che non ci fosse niuno che l'ascoltasse, 
+            perchè quel nome non le suonava giusto all'orecchio) <said>"—ma domanderò loro che nome abbia quel paese. </said></p>
+            </div>
+        </body>
+   
+    </text>
+</TEI>
