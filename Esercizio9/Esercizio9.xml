@@ -1,0 +1,46 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+
+<TEI>
+    <teiHeader><!--Info del Tei header--></teiHeader>
+    
+    <text>
+        <!--Uso di puntatori-->
+        <p>Per maggiori informazioni si veda il <ref target="#cap3"></ref>terzo capitolo.</p>
+
+        <div n="capitolo3" type="chapter">
+            <head xml:id="cap3">Capitolo 3</head>
+        </div>
+        
+        <!--Uso di note-->
+        <p>Dopo la realizzazione de <rs>Il Grande Vetro</rs> <name type="person">Duchamp</name>rifiuterà la produzione di altre
+        opere, per dedicarsi al gioco degli scacchi <note n="1">(Corriere della Sera, Storia dell'arte 
+        universale dal Data al Esistenzialismo, p.75)</note>.</p>
+
+        <!--Lista-->
+        <list type="simple">
+            <head>Lista della spesa:</head>
+            <label>1</label>
+            <item>Pasta</item>
+            <label>2</label>
+            <item>Frutta</item>
+            <label>3</label>
+            <item>Acqua</item>
+            <label>4</label>
+            <item>Carote</item>
+            <label>5</label>
+            <item>Zucchine</item>
+        </list>
+
+        <!-- Marcare term, glossa, name e rs -->
+        <p>Il <term xml:id="termineTecnico">Sistema antivibrante</term> è <gloss target="#termineTecnico">un sistema che isola completamente le impugnature dal resto della macchina e che 
+        garantisce elevato comfort all'utilizzatore anche in caso di usi prolungati.</gloss></p>
+        
+        <p><name type="person">Alice</name> cominciava a sentirsi mortalmente stanca di sedere sul poggio, accanto a sua sorella, senza far nulla:
+        una o due volte aveva gittato lo sguardo sul libro che leggeva sua sorella, ma non c'erano imagini nè dialoghi, 
+        <said>"e a che serve un libro,"</said>pensò <name type="person">Alice</name>, <said>"senza imagini e dialoghi?"</said></p>
+        
+        <p><rs type="person">Sua madre</rs> disse a <name type="person">Marco</name>di tornare a casa.</p>
+
+
+    </text>
+</TEI>
