@@ -1,0 +1,25 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+
+<TEI>
+    <!--Informazione del TeiHeader-->
+    <text>
+        <body>
+            <p xml:id="Nota41">
+            <name type="place">Parigi</name><date>30: Aprile</date>
+            Ecco mia cara <rs type="person">Duchessa</rs> <note>(<name type="person">Sophia Johnstone Platamone</name>, 
+            duchessa di <name type = "place">Cannizzaro</name>)</note>che vi ho obbedito 
+            subito subito – V’acchiudo <term>l’arietta</term> già <subst><del rend="overstrike" hand="author">scritta</del>
+            <add place = "supralinear" hand="author">composta</add></subst> sù la poesia che mi avete trascritto. 
+            È di <choice><abbr>vs</abbr><expan>vostra</expan></choice> privativa da conservarsi nel <choice><abbr>vs</abbr><expan>vostro</expan>
+            </choice> Album particolare.   
+            </p>   
+        </body>
+
+        <note n="Nota41" place="foot" target="#41">A <name type="person">Sophia Johnstone</name>, duchessa di <name type="place">Cannizzaro</name>, 
+        <name type="person">Bellini</name> dedicò <term>l’arietta</term> <title>«Odia la pastorella»</title>, 
+        che reca la stessa data di questa lettera; dalla missiva si evince che il testo, 
+        desunto da un libretto di <name type="person">Metastasio</name> <note>(<name type="person">Issipile</name>, atto III, scena 6)</note>, 
+        fu suggerito dalla stessa dedicataria.</note> 
+    </text>
+
+</TEI>
