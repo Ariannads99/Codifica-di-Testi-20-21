@@ -1,0 +1,59 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+
+<TEI>
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title>Thinking of you</title>
+                <respStmt>
+                    <resp> Resp TEI P5 a cura di </resp>
+                    <name>Arianna Di Serio</name>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Thinking of you</title>
+                    <author></author>
+                    <date>1918</date> 
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text type="cartolina" xml:id="cartolina1">
+        <body>
+            <div type="fronte">
+                <figure>
+                    <graphic url="cartolina.jpg" />
+                    <figDesc>Cartolina artistica</figDesc>
+                    <head>Thinking of you</head>
+                </figure>
+            </div>
+            <div>
+                <div type="message">
+                    <p>Auguri vivissimi a tutta la famiglia</p> 
+                    <signed>Nome firma</signed>
+                    
+                </div>
+                <div type="destination">
+                    <p>
+                        <stamp type="postmark"> 
+                            <date when="29/12/18">29/12/18</date>
+                        </stamp>
+                        <stamp type="postage">francobollo da 5 centesimi del Regno d'Italia</stamp>
+                    </p>
+                    <p>
+                        <address>
+                            <addrLine>Signorina</addrLine>
+                            <addrLine><persName>Olivia Turtura </persName></addrLine>
+                            <addrLine>Via G. Rossi 53</addrLine>
+                            <addrLine> <placeName>Ravenna</placeName></addrLine>
+                            <addrLine></addrLine>
+                        </address>
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+
+</TEI>

@@ -1,0 +1,38 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+
+<TEI>
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title>Vaccino in azienda: come funziona, chi può farlo e quali sono i vantaggi per i lavoratori (e i costi)</title>
+                <respStmt>
+                    <resp> Resp TEI P5 a cura di </resp>
+                    <name>Arianna Di Serio</name>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <bibl>
+                    <title level="a">Vaccino in azienda: come funziona, chi può farlo e quali sono i vantaggi per i lavoratori (e i costi)</title>. In
+                   <author>Isidoro Trovato</author>
+                   <publisher>Corriere della Sera</publisher>
+                    <date>1 Giugno 2021</date> 
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <p>Il singolo datore di lavoro con una popolazione lavorativa sufficientemente numerosa, può manifestare 
+            la disponibilità ad attuare piani aziendali per la predisposizione di punti straordinari 
+            di vaccinazione nei luoghi di lavoro. Attraverso l’apposita Guida diffusa dai <rs>Consulenti 
+            del Lavoro</rs> <note>(scaricabile dal sito www.consulentidellavoro.it)</note> vediamo le varie fasi di questa 
+            nuova procedura che sarà attivata nel corso del mese di giugno. Destinatari sono tutti i lavoratori 
+            indipendentemente dalla tipologia contrattuale (lavoratori dipendenti, tirocinanti, stagisti, collaboratori), 
+            compreso il datore di lavoro o titolari dell’azienda. <q>«Ma è bene precisare che 
+            purtroppo</q> - spiega <name type="person">Rosario De Luca</name>, presidente della <rs>Fondazione Studi Consulenti del 
+            Lavoro</rs> — non esiste alcun obbligo normativo per i dipendenti di sottoporsi alla vaccinazione».</p>
+        </body>
+    </text>
+
+</TEI>
